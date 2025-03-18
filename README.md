@@ -1,5 +1,12 @@
 # Machine_Learning
 Projet : Détection du risque de crédit 
+
+# Objectif :
+Expliquer notre target defaut en fonction de plusieurs variables du
+dataset
+Dataset : Loan_Default.csv
+Site : https://www.Kaggle.com
+
 # Context : 
 Financial institutions need to assess the risk
 of loan defaults. -Accurate predictions can help in
