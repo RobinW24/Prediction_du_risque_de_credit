@@ -1,5 +1,5 @@
 # Machine_Learning
-Projet : Détection du risque de crédit 
+
 
 # Objectif :
 Expliquer notre target defaut en fonction de plusieurs variables du
